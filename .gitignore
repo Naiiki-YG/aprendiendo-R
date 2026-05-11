@@ -1,0 +1,13 @@
+# Ignorar archivos de sistema de Windows
+desktop.ini
+[Dd]esktop.ini
+Thumbs.db
+
+# Ignorar archivos temporales de R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Ignorar archivos de Mac (por si acaso)
+.DS_Store
